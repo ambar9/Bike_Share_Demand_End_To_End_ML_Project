@@ -1,0 +1,8 @@
+README.md
+setup.py
+bike_share_demand.egg-info/PKG-INFO
+bike_share_demand.egg-info/SOURCES.txt
+bike_share_demand.egg-info/dependency_links.txt
+bike_share_demand.egg-info/requires.txt
+bike_share_demand.egg-info/top_level.txt
+src/__init__.py

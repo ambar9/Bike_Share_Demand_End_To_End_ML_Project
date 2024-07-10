@@ -1,0 +1,8 @@
+# Here are some solutions that maybe helpful if you not receiving egg.info file for using pip install -r requirements.txt:
+
+# 1) Check if you have __init__.py in src folder
+# 2) remove that -e . from requirements.txt and try the command python -m pip install -e .
+# 3) when creating .gitingore file through github you can see in that file content there is "#*.egg-info/" before pulling comment it or remove it.
+# 4) check if you saved all the files
+pandas
+-e .
